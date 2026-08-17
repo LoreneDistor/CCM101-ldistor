@@ -1,18 +1,18 @@
 # AWS Research
 
-## 1. Brief Overview
+##  Brief Overview
 
 Amazon Web Services (AWS) is a cloud computing platform from Amazon. From my research, I learned that AWS provides different services that can be used for computing, storage, databases, networking, and other IT needs.
 
-## 2. Global Infrastructure
+##  Global Infrastructure
 
 AWS has a global infrastructure that is divided into Regions and Availability Zones. I learned that these locations help organizations run their applications in different parts of the world and improve the availability and performance of their applications.
 
-## 3. Cloud Management Console
+##  Cloud Management Console
 
 The AWS Management Console is a web-based interface used to access and manage AWS services. From the console, users can search for services, manage resources, view notifications, access CloudShell, and check account and billing information.
 
-## 4. Four Core Services
+##  Four Core Services
 
 ### Amazon EC2
 
@@ -30,7 +30,7 @@ Amazon RDS is a managed database service for relational databases. It makes it e
 
 Amazon VPC is a networking service that allows users to create a virtual network for their AWS resources. It helps organize and control how resources communicate with each other.
 
-## 5. Three Advantages
+## Three Advantages
 
 1. **Wide range of services** – AWS provides many different services that can be used for various IT and business needs.
 
