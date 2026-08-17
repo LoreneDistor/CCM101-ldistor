@@ -38,6 +38,6 @@ Amazon VPC is a networking service that allows users to create a virtual network
 
 3. **Scalability** – AWS resources can be adjusted depending on the needs of an application or organization.
 
-## 6. Typical Enterprise Use Cases
+## Typical Enterprise Use Cases
 
 From my research, I found that organizations use AWS for hosting websites and applications, storing data, managing databases, and performing data analysis. AWS can also be used for backup and disaster recovery, software development, and other business workloads.
