@@ -27,3 +27,13 @@ Based on my research, I would choose Google Cloud for Artificial Intelligence an
 ### 4. Which cloud platform would you personally choose and why?
 
 I would personally choose Google Cloud because I am interested in learning more about Artificial Intelligence and cloud computing. From my research, I found that Google Cloud has services for AI, data analytics, application development, and Kubernetes, so I think it would be useful for developing my skills.
+
+## Checkpoint 5 – Match the Cloud Services
+
+| Service Category | AWS | Azure | GCP |
+|---|---|---|---|
+| Virtual Machine | Amazon EC2 | Azure Virtual Machines | Compute Engine |
+| Object Storage | Amazon S3 | Azure Blob Storage | Cloud Storage |
+| Identity Management | AWS IAM | Microsoft Entra ID | Cloud Identity |
+| SQL Database | Amazon RDS | Azure SQL Database | Cloud SQL |
+| Kubernetes | Amazon EKS | Azure Kubernetes Service (AKS) | Google Kubernetes Engine (GKE) |
