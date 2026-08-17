@@ -18,4 +18,4 @@ I learned that choosing a cloud platform is not only about choosing the most pop
 
 ### 5. How has your GitHub Cloud Computing Portfolio improved after completing this mission?
 
-My GitHub Cloud Computing Portfolio improved because I added my research about AWS, Azure, and Google Cloud. I also added the comparison table, client recommendations, decision matrix, Linux investigation, and screenshots. The portfolio is now more organized and shows the work I completed during the mission.
+My GitHub Cloud Computing Portfolio improved because I added my research about AWS, Azure, and Google Cloud. I also added the comparison table, client recommendations, decision matrix, Linux investigation, and screenshots. The portfolio is now more organized and shows the work I completed during the mission. Through this mission, I also gained a better understanding of how cloud services can support different organizations.
