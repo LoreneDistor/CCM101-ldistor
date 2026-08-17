@@ -46,3 +46,14 @@ I recommend AWS for the global e-commerce company because it has a global infras
 - Amazon EC2
 - AWS Auto Scaling
 - Amazon S3
+
+## Checkpoint 6 – Multi-Cloud Decision Matrix
+
+| Business Requirement | Recommended Platform | Justification |
+|---|---|---|
+| Startup Company | AWS | AWS offers many cloud services that can support a startup as it develops and grows its application. |
+| Enterprise Organization | AWS | AWS provides a wide range of services and global infrastructure that can support large and complex organizations. |
+| Microsoft Environment | Microsoft Azure | Azure is a good match for organizations that already use Microsoft technologies such as Windows Server, Microsoft 365, and Active Directory. |
+| AI / Machine Learning | Google Cloud | Google Cloud provides AI and machine learning services and infrastructure designed for demanding AI workloads. |
+| Kubernetes Deployment | Google Cloud | Google Kubernetes Engine (GKE) provides a managed Kubernetes environment for deploying and managing containerized applications. |
+| Global Web Application | AWS | AWS has a global infrastructure with Regions and Availability Zones, and its Auto Scaling services can adjust resources according to application demand. |
