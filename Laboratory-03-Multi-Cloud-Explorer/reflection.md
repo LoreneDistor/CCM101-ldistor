@@ -1,6 +1,6 @@
 # Mission Reflection
 
-### The cloud platform that impressed me the most is Google Cloud. From my research, I learned that it has a strong focus on Artificial Intelligence, data, and Kubernetes. I also liked that Google Cloud has regions and zones in different parts of the world for running applications.
+The cloud platform that impressed me the most is Google Cloud. From my research, I learned that it has a strong focus on Artificial Intelligence, data, and Kubernetes. I also liked that Google Cloud has regions and zones in different parts of the world for running applications.
 
 AWS, Azure, and GCP are similar because they all provide cloud computing services. All three have services for computing, storage, networking, databases, and identity management. They also allow organizations to use cloud resources without maintaining all of their own physical servers.
 
